@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá, Me chamo Israel 👋
 
-<!--
-**IsraelChaves/IsraelChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo HTML,CSS,JS,PYTHON
+- 👯 Estou procurando colaborar em Front-end
+- 👩‍💻 Estudante de GTI(Gestão da Tecnologia da Informação)
 
-Here are some ideas to get you started:
+  <div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <div>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IsraelChaves&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IsraelChaves&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsraelChaves&show_icons=true" />
+</picture>
+  </div>
