@@ -1,6 +1,6 @@
 ## Olá, Me chamo Israel 👋
 
-- 🌱 Atualmente estou aprendendo HTML,CSS,JS,PYTHON
+- 🌱 Atualmente estou aprendendo HTML,CSS,JS,PYTHON,REACT,GIT,GITHUB
 - 👯 Estou procurando colaborar em Front-end
 - 👩‍💻 Estudante de GTI(Gestão da Tecnologia da Informação)
 
