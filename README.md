@@ -2,8 +2,9 @@
 **Seja bem-vindo ao meu perfil!**
 > "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 
-Oi, eu sou o Israel, um estudante apaixonado por **tecnologia e edição de video**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
-Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
+Olá! Eu sou Israel Chaves, apaixonado por **tecnologia, desenvolvimento web e inteligência artificial**. Sou formado em Gestão da Tecnologia da Informação e atualmente me especializo em Desenvolvimento Full Stack.
+
+Gosto de transformar ideias em soluções digitais, explorar novas tecnologias e criar projetos que unem inovação, criatividade e propósito.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-chaves-17a9ab2b7/)
 
